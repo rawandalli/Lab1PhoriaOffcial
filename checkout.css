@@ -14,8 +14,9 @@ body {
 
 .Logo-2 img {
     width: 20em;
-    
-}
+    }
+
+
 .Checkout-1{
 display: flex;
 gap: 4em;
@@ -29,6 +30,9 @@ justify-content: center;
     margin-top: 5em;
     border-radius: 1em;
 }
+
+
+
 
 .arrow {
     
