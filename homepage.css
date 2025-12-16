@@ -55,6 +55,20 @@ body {
     color: black;
 }
 
+.koop-btn1 {
+    background-color: #FA8072;
+    display: flex;
+    margin: 0 auto;
+    border-radius: 2em;
+    padding: 1em 2em;
+    text-align: center;
+    border: none;
+    justify-content: center;
+    text-decoration: none;
+    width: fit-content;
+    color: black;
+}
+
 
 
 .producten-2 {
