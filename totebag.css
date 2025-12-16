@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1a1d3a;
+    color: white;
+}
+
+.foto-tas {
+    width: 25em;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 8em;
+    border-radius: 1em;
+}
+
+.arrow {
+   position: absolute;
+   top: 0;
+   width: 0.8em;
+   margin-left: 1em;
+   margin-top: 1em;
+}
+
+.Totebag-title {
+    display: flex;
+    justify-content: center;
+}
+
+.beschrijving-1 {
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 21em;
+}
+
+.prijs-1 {
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 6em;
+    margin-top: 2em;
+}
+
+
+
+.bestel-btn1 {
+    background-color: #FA8072;
+    display: flex;
+    margin: 0 auto;
+    border-radius: 2em;
+    padding: 1em 2em;
+    text-align: center;
+    border: none;
+    justify-content: center;
+    text-decoration: none;
+    width: 10em;
+    color: black;
+    margin-top: 4em;
+    
+}
