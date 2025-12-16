@@ -27,12 +27,7 @@ body {
     justify-content: center;
 }
 
-.beschrijving-3 {
-    display: flex;
-    text-align: center;
-    margin: 0 auto;
-    max-width: 21em;
-}
+
 
 .beschrijving-3 {
     display: flex;
