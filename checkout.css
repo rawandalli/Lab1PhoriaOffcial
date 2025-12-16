@@ -149,3 +149,25 @@ margin-right: 2em;
     font-size: 1.1em;
     
 }
+
+.Verzending {
+     display: flex;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 21em;
+    justify-content: center;
+    margin-top: 3em;
+}
+
+.Afrekenen {
+    background-color: #FA8072;
+    display: flex;
+    margin: 0 auto;
+    border-radius: 1em;
+    padding: 1em 3em ;
+    text-align: center;
+    border: none;
+    margin-top: 5em;
+    font-size: 1.1em;
+    
+}
