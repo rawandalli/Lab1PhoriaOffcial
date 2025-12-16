@@ -56,6 +56,22 @@ body {
     height: 3em;
 }
 
+.maten-3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+    gap: 1.5em;
+    font-size: 1.5em;
+    }
+
+.maat {
+    background-color: #FA8072;
+    border: none;
+    border-radius: 1em;
+    width: 4em ;
+    height: 3em;
+}
+
 .bestel-btn3 {
     background-color: #FA8072;
     display: flex;
