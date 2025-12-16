@@ -4,6 +4,8 @@ body {
     color: white;
 }
 
+
+
 .Logo-2  {
     display: flex;
     justify-content: center;
@@ -14,7 +16,6 @@ body {
     width: 20em;
     
 }
-
 .Checkout-1{
 display: flex;
 gap: 4em;
